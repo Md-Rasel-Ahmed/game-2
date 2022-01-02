@@ -1,0 +1,24 @@
+.one {
+  transform: translateX(-500px);
+  transition: all 2s ease;
+  color: white;
+  font-size: 30px;
+  width: 300px;
+  opacity: 0;
+}
+.two {
+  opacity: 1;
+  transform: translateX(0px);
+}
+.three {
+  transform: translateY(100px);
+  transition: all 2s ease;
+  color: white;
+  font-size: 30px;
+  width: 300px;
+  opacity: 0;
+}
+.four {
+  opacity: 1;
+  transform: translateX(0px);
+}
